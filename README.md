@@ -1,9 +1,6 @@
-<details open>
-<summary><strong>🇬🇧 English Version</strong></summary>
+# 👋 Saeed Moradi
 
-# 👋 Hi, I'm Saeed Moradi
-
-## WordPress Developer & Front-End Developer
+### WordPress Developer & Front-End Developer
 
 I build fast, scalable, and maintainable WordPress websites with a strong focus on clean code, user experience, and technical SEO.
 
@@ -37,26 +34,17 @@ My background combines software development, SEO, and education.
 
 I'm currently building open-source WordPress projects that showcase real-world development practices.
 
-### 📊 GitHub Stats
-
-[![Saeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=saeeddev74&show_icons=true&theme=radical)](https://github.com/saeeddev74)
-
 ### 📫 Connect with Me
 
-📫 **Get in touch:** [Email](mailto:saeeddev74@gmail.com) | [LinkedIn](https://linkedin.com/in/saeeddev74) | [Telegram](https://t.me/saeeddev74)
+📫 **Get in touch:** [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saeeddev74@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/saeeddev74) | [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/saeeddev74)
 
 💬 I'm always open to collaboration, freelance projects, and learning opportunities.
 
-</details>
-
 ---
 
-<details>
-<summary><strong>🇮🇷 نسخه فارسی (برای مشاهده کلیک کنید)</strong></summary>
+# 👋 سعید مرادی
 
-# 👋 سلام، من سعید مرادی هستم
-
-## توسعه‌دهنده وردپرس و فرانت‌اند
+### توسعه‌دهنده وردپرس و فرانت‌اند
 
 من وب‌سایت‌های وردپرسی سریع، مقیاس‌پذیر و قابل توسعه می‌سازم؛ با تمرکز بر کدنویسی تمیز، تجربه کاربری و سئوی تکنیکال.
 
@@ -90,14 +78,8 @@ I'm currently building open-source WordPress projects that showcase real-world d
 
 در حال توسعه اولین پروژه‌های متن‌باز وردپرسی هستم تا نمونه‌ای از شیوه توسعه و استانداردهای کاری خود را به اشتراک بگذارم.
 
-### 📊 آمار GitHub
-
-[![Saeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=saeeddev74&show_icons=true&theme=radical)](https://github.com/saeeddev74)
-
 ### 📫 راه‌های ارتباطی
 
-📫 **ارتباط با من:** [ایمیل](mailto:saeeddev74@gmail.com) | [لینکدین](https://linkedin.com/in/saeeddev74) | [تلگرام](https://t.me/saeeddev74)
+📫 **ارتباط با من:** [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saeeddev74@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/saeeddev74) | [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/saeeddev74)
 
 💬 اگر برای همکاری، پروژه‌های فریلنسری یا تبادل تجربه علاقه‌مند هستید، خوشحال می‌شوم با هم در ارتباط باشیم.
-
-</details>
