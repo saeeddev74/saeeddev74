@@ -6,6 +6,15 @@ I build fast, scalable, and maintainable WordPress websites with a strong focus 
 
 ---
 
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+---
+
 ### 🛠 Tech Stack
 
 * **WordPress:** Custom Theme & Plugin Development, ACF/SCF, WP_Query, Actions & Filters
@@ -59,6 +68,16 @@ I'm currently building open-source WordPress projects that showcase real-world d
 من وب‌سایت‌های وردپرسی سریع، مقیاس‌پذیر و قابل توسعه می‌سازم؛ با تمرکز بر کدنویسی تمیز، تجربه کاربری و سئوی تکنیکال.
 
 ---
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+--- 
+
 
 ### 🛠 مهارت‌های فنی
 
