@@ -4,8 +4,6 @@
 
 I build fast, scalable, and maintainable WordPress websites with a strong focus on clean code, user experience, and technical SEO.
 
----
-
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -48,7 +46,8 @@ I'm currently building open-source WordPress projects that showcase real-world d
 
 ### 📊 GitHub Stats
 
-<!-- GitHub Stats -->
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=saeeddev74&show_icons=true&theme=radical)
+
 
 ---
 
@@ -66,8 +65,6 @@ I'm currently building open-source WordPress projects that showcase real-world d
 ## توسعه‌دهنده وردپرس و فرانت‌اند
 
 من وب‌سایت‌های وردپرسی سریع، مقیاس‌پذیر و قابل توسعه می‌سازم؛ با تمرکز بر کدنویسی تمیز، تجربه کاربری و سئوی تکنیکال.
-
----
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
@@ -112,7 +109,8 @@ I'm currently building open-source WordPress projects that showcase real-world d
 
 ### 📊 آمار GitHub
 
-<!-- GitHub Stats -->
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=saeeddev74&show_icons=true&theme=radical)
+
 
 ---
 
