@@ -1,3 +1,6 @@
+<details open>
+<summary><strong>🇬🇧 English Version</strong></summary>
+
 # 👋 Hi, I'm Saeed Moradi
 
 ## WordPress Developer & Front-End Developer
@@ -36,7 +39,7 @@ I'm currently building open-source WordPress projects that showcase real-world d
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=saeeddev74&show_icons=true&theme=radical)
+[![Saeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=saeeddev74&show_icons=true&theme=radical)](https://github.com/saeeddev74)
 
 ### 📫 Connect with Me
 
@@ -44,7 +47,12 @@ I'm currently building open-source WordPress projects that showcase real-world d
 
 💬 I'm always open to collaboration, freelance projects, and learning opportunities.
 
+</details>
+
 ---
+
+<details>
+<summary><strong>🇮🇷 نسخه فارسی (برای مشاهده کلیک کنید)</strong></summary>
 
 # 👋 سلام، من سعید مرادی هستم
 
@@ -84,11 +92,12 @@ I'm currently building open-source WordPress projects that showcase real-world d
 
 ### 📊 آمار GitHub
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=saeeddev74&show_icons=true&theme=radical)
-
+[![Saeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=saeeddev74&show_icons=true&theme=radical)](https://github.com/saeeddev74)
 
 ### 📫 راه‌های ارتباطی
 
 📫 **ارتباط با من:** [ایمیل](mailto:saeeddev74@gmail.com) | [لینکدین](https://linkedin.com/in/saeeddev74) | [تلگرام](https://t.me/saeeddev74)
 
 💬 اگر برای همکاری، پروژه‌های فریلنسری یا تبادل تجربه علاقه‌مند هستید، خوشحال می‌شوم با هم در ارتباط باشیم.
+
+</details>
